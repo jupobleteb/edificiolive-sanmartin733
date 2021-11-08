@@ -15,11 +15,11 @@ Objetivos
 - ¿Problemas con pagos? contabilidadcomunidadlive@gmail.com :love_letter:
 
 ## Modo de uso
-Si estas en mobile hacer click en:
+Si estas desde un dispositivo mobile hacer click en "View Code"
 
 <img src="https://user-images.githubusercontent.com/14129358/140669122-d28d4392-5dae-4a78-bc62-8325ede0d12b.jpeg" width="90%" height="90%" />
 
-Se deberían desplegar las carpetas que contienen todas las actas desde el año 2018
+Se desplegarán las carpetas que contienen todas las actas desde el año 2018
 
 <img src="https://user-images.githubusercontent.com/14129358/140669163-92d7eeb1-016e-4121-aff7-d8435ed98b5d.jpeg" width="90%" height="90%" />
 
