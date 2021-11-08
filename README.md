@@ -1,11 +1,19 @@
 Repositorio de la comunidad del edificio Live
 =========
 
+
+
 Objetivos
 ---------------
 
-- Ayudar todos los integrantes de la comunidad a estar informados.
-- Fomentar la participación de forma colaborativa para mantener un repositorio común.
+- Ayudar todos los integrantes de la comunidad a estar informados.  :heavy_check_mark:
+- Fomentar la participación de forma colaborativa para mantener un repositorio común.  :heavy_check_mark:
+
+
+## Información de utilidad
+- Correo de administración admedificiolive@gmail.com 
+- ¿Problemas con pagos? contabilidadcomunidadlive@gmail.com :love_letter:
+
 
 ## ¿Cómo aportar o colaborar?
 
@@ -24,3 +32,6 @@ Aquellos que quieran aportar con documentos a esta plataforma lo pueden hacer me
 - Es fácil de mantener y de usar.
 - Se puede acceder mediante web o tener el repositorio descargado en sus computadores.
 
+
+
+by Juan Poblete para su querida comunidad :bowtie:
