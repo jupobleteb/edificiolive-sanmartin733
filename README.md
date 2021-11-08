@@ -14,6 +14,15 @@ Objetivos
 - Correo de administración admedificiolive@gmail.com 
 - ¿Problemas con pagos? contabilidadcomunidadlive@gmail.com :love_letter:
 
+## Modo de uso
+Si estas en mobile hacer click en:
+
+<img src="https://user-images.githubusercontent.com/14129358/140669122-d28d4392-5dae-4a78-bc62-8325ede0d12b.jpeg" width="40%" height="40%" />
+
+Se deberían desplegar las carpetas que contienen todas las actas desde el año 2018
+
+<img src="https://user-images.githubusercontent.com/14129358/140669163-92d7eeb1-016e-4121-aff7-d8435ed98b5d.jpeg" width="40%" height="40%" />
+
 
 ## ¿Cómo aportar o colaborar?
 
