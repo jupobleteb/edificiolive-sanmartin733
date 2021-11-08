@@ -6,8 +6,8 @@ Repositorio de la comunidad del edificio Live
 Objetivos
 ---------------
 
-- Ayudar todos los integrantes de la comunidad a estar informados.  :heavy_check_mark:
-- Fomentar la participación de forma colaborativa para mantener un repositorio común.  :heavy_check_mark:
+- Ayudar todos los integrantes de la comunidad a estar informados. :white_check_mark:
+- Fomentar la participación de forma colaborativa para mantener un repositorio común. :white_check_mark:
 
 
 ## Información de utilidad
@@ -34,4 +34,4 @@ Aquellos que quieran aportar con documentos a esta plataforma lo pueden hacer me
 
 
 
-by Juan Poblete para su querida comunidad :bowtie:
+by Juan Poblete :bowtie:
